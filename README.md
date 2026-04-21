@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="WhatsApp Image 2026-04-17 at 5 31 25 PM" src="https://github.com/user-attachments/assets/7fcefd55-4f26-4a76-a1e5-475ef4583c29" />
+
 # 🚖 NYC Taxi Data Analysis using Apache Spark
 
 ## 📌 Overview
